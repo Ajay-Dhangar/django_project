@@ -36,6 +36,6 @@ If you want to learn how to install Django and how to build project then follow 
 ![Screenshot (169)](https://user-images.githubusercontent.com/99037494/213630651-cb2c51d0-172f-4b59-a67b-49b4c2108a9f.png)
 
 
-### If you successfully build then `follow ` me and give me `Star ` 🌟.
+### If you successfully build then [Follow 💗](https://github.com/Ajay-Dhangar) me and give me ` Star ` 🌟 and view [all stars](https://github.com/Ajay-Dhangar/django_project/stargazers).
 
 ***Keep learning***
